@@ -13,9 +13,9 @@
             <div class="navbar-nav ml-auto font-weight-regular text-uppercase">
                 <a class="d-none nav-item nav-link" href="#page-hero">hero target</a>
                 <a class="d-none nav-item nav-link" href="#main-content">nav target</a>
-                <a class="nav-item nav-link font-weight-bold  text-light" href="/"><i class="fas fa-home"></i></a>
-                <a class="nav-item nav-link" href="{{ route('course') }}">Pembelajaran</a>
-                <a class="nav-item nav-link" href="{{ route('blog') }}">Artikel</a>
+                <a class="nav-item nav-link  {{ request()->is('/') ? 'font-weight-bold text-light' : '' }}" href="/"><i class="fas fa-home"></i></a>
+                <a class="nav-item nav-link {{ request()->is('courses') ? 'font-weight-bold text-light' : '' }}" href="{{ route('course') }}">Pembelajaran</a>
+                <a class="nav-item nav-link {{ request()->is('blogs') ? 'font-weight-bold text-light' : '' }}" href="{{ route('blog') }}">Artikel</a>
                 <div class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
