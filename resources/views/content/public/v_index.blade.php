@@ -18,7 +18,7 @@
                             pengetahuan yang diperlukan untuk membangun aplikasi web dinamis dan tangguh menggunakan dua
                             dari kerangka kerja PHP paling populer di industri.
                         </p>
-                        <div><a class="btn btn-lg btn-outline-light" href="https://your-course-website.com/">Jelajahi
+                        <div><a class="btn btn-lg btn-outline-light" href="{{ route('course') }}">Jelajahi
                                 Kursus</a></div>
                     </div>
                 </div>
@@ -60,12 +60,11 @@
                         </a>
                         <time class="small d-none d-lg-block text-body"
                             datetime="Invalid DateTime">{{ \Carbon\Carbon::parse($course['publishedAt'])->translatedFormat('j F Y') }}</time>
-                        <a href="{{ $course['linkedin'] }}"
-                            class="h4 d-block my-1">{{ $course['title'] }}</a>
+                        <a href="{{ $course['linkedin'] }}" class="h4 d-block my-1">{{ $course['title'] }}</a>
                         <p class="mb-1  text-body d-none d-lg-block">{{ $course['description'] }}</p>
                         <div class="item-links">
-                            <a href="{{ $course['linkedin'] }}" class="mr-3 mr-lg-1 text-secondary"><i class="fab fa-linkedin mr-1"></i><span
-                                    class="d-none d-lg-inline text-body">on
+                            <a href="{{ $course['linkedin'] }}" class="mr-3 mr-lg-1 text-secondary"><i
+                                    class="fab fa-linkedin mr-1"></i><span class="d-none d-lg-inline text-body">on
                                     LinkedIn</a></span>
                         </div>
                         <div class="mt-1">
