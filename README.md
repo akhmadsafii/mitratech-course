@@ -18,10 +18,10 @@ Platform ini menyediakan alat untuk melacak kemajuan Anda selama kursus. Anda da
 Setelah menyelesaikan kursus, Anda akan menerima sertifikat resmi yang dapat Anda tambahkan ke profil Anda. Sertifikat ini memberikan pengakuan resmi atas usaha Anda dalam meningkatkan keterampilan dan pengetahuan
 
 ## Cara Bergabung
-- 1. **Buat Akun** Daftar dan buat akun Mitratech Course untuk mengakses katalog lengkap kursus.
-- 2. **Jelajahi Katalog** Telusuri katalog kursus dan pilih topik yang sesuai dengan kebutuhan dan minat Anda.
-- 3. **Daftar pada Kursus** Bergabung dengan kursus favorit Anda dan mulai perjalanan pembelajaran Anda.
-- 4. **Interaktif dan Produktif** Ikuti kursus dengan aktif berpartisipasi dalam diskusi, menyelesaikan tugas, dan mengukur kemajuan Anda.
-- 5. **Dapatkan Sertifikat** Setelah menyelesaikan kursus, peroleh sertifikat resmi sebagai bukti pencapaian Anda.
+- **Buat Akun** Daftar dan buat akun Mitratech Course untuk mengakses katalog lengkap kursus.
+- **Jelajahi Katalog** Telusuri katalog kursus dan pilih topik yang sesuai dengan kebutuhan dan minat Anda.
+- **Daftar pada Kursus** Bergabung dengan kursus favorit Anda dan mulai perjalanan pembelajaran Anda.
+- **Interaktif dan Produktif** Ikuti kursus dengan aktif berpartisipasi dalam diskusi, menyelesaikan tugas, dan mengukur kemajuan Anda.
+- **Dapatkan Sertifikat** Setelah menyelesaikan kursus, peroleh sertifikat resmi sebagai bukti pencapaian Anda.
 
 Mitratech Course hadir untuk membimbing Anda menuju kesuksesan melalui pendidikan yang dapat diandalkan dan inovatif. Bergabunglah dengan komunitas pembelajaran kami sekarang dan mulailah perjalanan menuju pengetahuan yang lebih luas dan keterampilan yang lebih baik!
