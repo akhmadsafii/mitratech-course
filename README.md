@@ -1,66 +1,27 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Mitratech Course - Platform Informasi Kursus
+Selamat datang di Mitratech Course, solusi lengkap untuk mendapatkan dan berpartisipasi dalam kursus-kursus informatif yang dirancang untuk meningkatkan pengetahuan dan keterampilan Anda. Platform ini menawarkan pengalaman pembelajaran yang interaktif dan memastikan akses mudah ke berbagai kursus berkualitas.
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Fitur Utama
+### 1. Katalog Kursus Diversifikasi
+Dengan katalog kursus yang beragam, Mitratech Course menyediakan berbagai topik yang sesuai dengan berbagai kebutuhan dan minat. Dari pengembangan keterampilan teknis hingga pengembangan pribadi, kami memiliki kursus-kursus yang dapat memenuhi tujuan pembelajaran Anda
 
-## About Laravel
+### 2. Pengajar Ahli
+Setiap kursus disajikan oleh pengajar yang ahli di bidangnya. Mendapatkan wawasan langsung dari praktisi terkemuka membantu memastikan bahwa materi pembelajaran selalu relevan dan dapat diaplikasikan dalam dunia nyata
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### 3. Platform Interaktif
+Mitratech Course memanfaatkan teknologi interaktif untuk memastikan pembelajaran yang menarik dan efektif. Diskusi online, ujian, dan proyek-proyek praktis adalah bagian integral dari pengalaman belajar Anda
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### 4. Pelacakan Kemajuan
+Platform ini menyediakan alat untuk melacak kemajuan Anda selama kursus. Anda dapat mengukur pencapaian, menyelesaikan tugas, dan mendapatkan umpan balik langsung dari pengajar
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### 5. Sertifikat Kursus
+Setelah menyelesaikan kursus, Anda akan menerima sertifikat resmi yang dapat Anda tambahkan ke profil Anda. Sertifikat ini memberikan pengakuan resmi atas usaha Anda dalam meningkatkan keterampilan dan pengetahuan
 
-## Learning Laravel
+## Cara Bergabung
+- 1. **Buat Akun** Daftar dan buat akun Mitratech Course untuk mengakses katalog lengkap kursus.
+- 2. **Jelajahi Katalog** Telusuri katalog kursus dan pilih topik yang sesuai dengan kebutuhan dan minat Anda.
+- 3. **Daftar pada Kursus** Bergabung dengan kursus favorit Anda dan mulai perjalanan pembelajaran Anda.
+- 4. **Interaktif dan Produktif** Ikuti kursus dengan aktif berpartisipasi dalam diskusi, menyelesaikan tugas, dan mengukur kemajuan Anda.
+- 5. **Dapatkan Sertifikat** Setelah menyelesaikan kursus, peroleh sertifikat resmi sebagai bukti pencapaian Anda.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Mitratech Course hadir untuk membimbing Anda menuju kesuksesan melalui pendidikan yang dapat diandalkan dan inovatif. Bergabunglah dengan komunitas pembelajaran kami sekarang dan mulailah perjalanan menuju pengetahuan yang lebih luas dan keterampilan yang lebih baik!
